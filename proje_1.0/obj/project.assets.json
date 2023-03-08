@@ -231,11 +231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\smart-hospital\\proje_1.0\\proje_1.0.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\repos\\smart-hospital\\proje_1.0\\proje_1.0.csproj",
       "projectName": "proje_1.0",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\smart-hospital\\proje_1.0\\proje_1.0.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\repos\\smart-hospital\\proje_1.0\\proje_1.0.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\smart-hospital\\proje_1.0\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\repos\\smart-hospital\\proje_1.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

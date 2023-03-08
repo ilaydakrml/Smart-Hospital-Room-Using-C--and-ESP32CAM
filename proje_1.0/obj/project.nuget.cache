@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IopdZCls9vgW8twLS21L6GEF5OB3a3q3u93LTa49oRacS+QeMawtEH7Vk/Eo8lZnM5yvSxQmGgi4GPx51kc7/w==",
+  "dgSpecHash": "agIWwo7Do9HCF7oZO7aLo8RiAheWQiOKCz4noRAL7o0dUtAhUxcNwB0UDk1Rj//sw9SHghn/MRQ+mqkChdN9ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\smart-hospital\\proje_1.0\\proje_1.0.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\repos\\smart-hospital\\proje_1.0\\proje_1.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
